@@ -1,0 +1,2 @@
+include ':app', ':day1031lx', ':day1101'
+rootProject.name='XsanLx'
